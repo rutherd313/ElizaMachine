@@ -1,5 +1,5 @@
 # # -*- coding: utf-8 -*-
-""" Eliza homework. Conversation with a computer """
+"""Conversation with a computer """
 __author__="John Dueno"
 
 emotions_1 = ['good', 'great', 'happy', 'well', 'content', 'merry', 'joyful', 'jovial', 'delighted', 'disgusted', 'distressed', 'amazing']
